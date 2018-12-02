@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Carrinha()
+comment1.params=id\ v\ pKm\ pHora\ c\ h\ tF\ f
+comment1.target=Carrinha(int,\ double,\ double,\ double,\ Ponto2D,\ java.util.List,\ boolean,\ java.util.List)
+comment2.params=c
+comment2.target=Carrinha(Carrinha)
+numComments=3

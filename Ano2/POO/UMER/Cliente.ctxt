@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cliente()
+comment1.params=e\ n\ p\ m\ d
+comment1.target=Cliente(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.util.GregorianCalendar)
+comment2.params=c
+comment2.target=Cliente(Cliente)
+comment3.params=
+comment3.target=java.util.List\ getHistorico()
+comment4.params=
+comment4.target=double\ getTotalPago()
+comment5.params=historico
+comment5.target=void\ setHistorico(java.util.List)
+comment6.params=
+comment6.target=Viagem\ getViagem()
+comment7.params=
+comment7.target=Cliente\ clone()
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,18 @@
+Este comando lista os ficheiros:
+$ ls -f
+
+Sort dos ficheiros:
+$| sort
+
+Primeiro elemento do sort:
+$| head -1
+
+Escolher o primeiro do resutado de ls:
+$3| head -1
+
+Inverte o resultado do sort:
+$3| sort -r
+
+Sleep:
+$ sleep 1
+

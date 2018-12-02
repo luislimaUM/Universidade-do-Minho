@@ -1,0 +1,196 @@
+
+---------- LOG - LOG - LOG -- LOG - LOG - LOG ----------
+
+********************************************************
+********************                ********************
+********************    Clientes    ********************
+********************                ********************
+********************************************************
+
+Utilizador:
+
+	EMAIL:    sofi4@gmail.com
+	PASSWORD: 5665rrr
+	NOME:     Sofia Saraiva
+	MORADA:   Rua do Enigma
+
+Utilizador:
+
+	EMAIL:    mari4n4@hotmail.com
+	PASSWORD: mmmarianaaa
+	NOME:     Mariana Costa
+	MORADA:   Rua do Medico
+
+Utilizador:
+
+	EMAIL:    orto@iol.pt
+	PASSWORD: ortoFran
+	NOME:     Francisco Ortencio
+	MORADA:   Rua do Dentista
+
+Utilizador:
+
+	EMAIL:    relampago@hotmail.com
+	PASSWORD: thunderzzz
+	NOME:     Usain Bolt
+	MORADA:   Rua da Jamaica
+
+Utilizador:
+
+	EMAIL:    timon@gmail.com
+	PASSWORD: disney
+	NOME:     Timon e Pumba
+	MORADA:   Rua da Bonecada
+
+Utilizador:
+
+	EMAIL:    trambolho@hotmail.com
+	PASSWORD: ttt12ttt
+	NOME:     Tiago Malheiro
+	MORADA:   Rua da Sardinha
+
+Utilizador:
+
+	EMAIL:    guliv3r@gmail.com
+	PASSWORD: sfsf1234
+	NOME:     Sergio Costa
+	MORADA:   Rua do Croissant
+
+Utilizador:
+
+	EMAIL:    Luisinho99@hotmail.com
+	PASSWORD: xswtyu
+	NOME:     Luis Tavares
+	MORADA:   Rua do Coracao
+
+Utilizador:
+
+	EMAIL:    cr7madrid@hotmail.com
+	PASSWORD: NaoAdivinhas
+	NOME:     Cristiano Ronaldo
+	MORADA:   Rua do Geres
+
+Utilizador:
+
+	EMAIL:    me22i@hotmail.com
+	PASSWORD: JaDisse
+	NOME:     Leonel Messi
+	MORADA:   Rua do Anao Cabeludo
+
+********************************************************
+*******************                  *******************
+*******************    Motoristas    *******************
+*******************                  *******************
+********************************************************
+
+Utilizador:
+
+	EMAIL:    antunes1978@hotmail.com
+	PASSWORD: 4ntun3s
+	NOME:     Rui Antunes
+	MORADA:   Rua do Dinheiro
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: false
+
+Utilizador:
+
+	EMAIL:    raqu3l@hotmail.com
+	PASSWORD: chav32
+	NOME:     Raquel Chaves
+	MORADA:   Rua da Gondola
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: true
+
+Utilizador:
+
+	EMAIL:    ruben21@gmail.com
+	PASSWORD: rubinho21
+	NOME:     Ruben Sousa
+	MORADA:   Rua da Cegonha
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: true
+
+Utilizador:
+
+	EMAIL:    an4bel4@gmail.com
+	PASSWORD: qwerty91
+	NOME:     Anabela Vieira
+	MORADA:   Rua da Mordidela
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: false
+
+Utilizador:
+
+	EMAIL:    yoggi@hotmail.com
+	PASSWORD: 12re
+	NOME:     Pedro Ferreira
+	MORADA:   Rua da Trovoada
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: true
+
+Utilizador:
+
+	EMAIL:    huginhoJ@iol.pt
+	PASSWORD: HuGo444
+	NOME:     Hugo Carvalho
+	MORADA:   Rua de S.Joao
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: false
+
+Utilizador:
+
+	EMAIL:    irene@hotmail.com
+	PASSWORD: 99irenE
+	NOME:     Irene Sanches
+	MORADA:   Rua da Moeda
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: true
+
+Utilizador:
+
+	EMAIL:    susaninha@hotmail.com
+	PASSWORD: 12susana21
+	NOME:     Susana Dias
+	MORADA:   Rua da Fama
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: false
+
+Utilizador:
+
+	EMAIL:    tirano@iol.pt
+	PASSWORD: t1r4n0
+	NOME:     Jorge Tirano
+	MORADA:   Rua da Pescada
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: false
+
+Utilizador:
+
+	EMAIL:    florb3l4@gmail.com
+	PASSWORD: wpwpwp
+	NOME:     Florbela Espanca
+	MORADA:   Rua dos Bolos
+	FATOR:           0
+	CLASSIFICACAO:   0
+	KMS TOTAIS:      0.0
+	DISPONIBILIDADE: false
+
+---------- LOG - LOG - LOG -- LOG - LOG - LOG ----------

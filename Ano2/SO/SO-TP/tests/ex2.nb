@@ -1,0 +1,13 @@
+Testes:
+$ls
+
+$ls ; ls -l
+
+$echo "ola"
+
+$ 2|sort
+
+$ 3|cat
+
+$ 4| grep a ; cat < Makefile
+

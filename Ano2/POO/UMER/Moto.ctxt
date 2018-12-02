@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Moto()
+comment1.params=id\ v\ pKm\ pHora\ c\ h\ tF\ f
+comment1.target=Moto(int,\ double,\ double,\ double,\ Ponto2D,\ java.util.List,\ boolean,\ java.util.List)
+comment2.params=m
+comment2.target=Moto(Moto)
+numComments=3
