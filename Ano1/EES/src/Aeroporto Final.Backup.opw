@@ -1,0 +1,72 @@
+[RESOURCES]
+Assistente que faz checkout dos passageiros
+Recepcionista
+Maquina bilheteira
+Assistente que faz checkout das bagagens
+Assistente que faz check in do passageiro
+Assistente que faz check in da bagagem
+[VARIABLES]
+Verifica se ja foi a zona de restauracao.NumberOut True
+Qual o tipo de servico?.NumberOut False
+Saida do aeroporto.NumberOut
+Assistencia.NumberIn
+Agrupa bagagens para transporte 3.NumberOut
+Quer fazer alguma coisa antes de ir?.NumberOut True
+Vai partir? 3.NumberOut True
+Compra de bilhetes.NumberOut
+Separacao da bagagem do passageiro.NumberOut Orig
+Limpeza.NumberIn
+Desagrupamento das bagagens.NumberOut Orig
+Tem bagagem?.NumberOut True
+Check in da bagagem.NumberOut
+Assistencia.NumberOut
+Verifica se ja foi ao salao de jogos.NumberOut False
+Verifica se ja foi as lojas.NumberOut False
+Separa o passageiro da bagagem.NumberOut Orig
+Checkout de bagagens.NumberOut
+Vai partir? 2.NumberOut False
+Verifica se ja foi a zona de restauracao.NumberOut False
+Chegada de avioes de passageiros.NumberOut
+Qual o tipo de servico?.NumberOut True
+Checkout de bagagens.NumberIn
+Limpeza.NumberOut
+Separacao da bagagem do passageiro.NumberOut Dup
+Junta tudo.NumberOut
+Passageiros tem bagagem?.NumberOut True
+Compra de bilhetes.NumberIn
+Verifica se ja foi a casa de banho.NumberOut False
+Separa passageiros dos avioes.NumberOut Orig
+Vai partir? 3.NumberOut False
+Tem o que fazer antes de ir?.NumberOut False
+Entrada de passageiros.NumberOut
+Vai partir?.NumberOut True
+Agrupamento de bagagens para transporte.NumberOut
+Juntar passageiros as suas bagagens.NumberOut
+Reabastecimento.NumberIn
+Compra de bilhetes automatizada.NumberIn
+Tem bagagem?.NumberOut False
+Check in do passageiro.NumberOut
+Check in do passageiro.NumberIn
+Vai partir?.NumberOut False
+Verifica se ja foi as lojas.NumberOut True
+Separa o passageiro da bagagem.NumberOut Dup
+Tem bagagem? 2.NumberOut True
+Junta os passageiros.NumberOut
+Check in da bagagem.NumberIn
+Tem o que fazer antes de ir?.NumberOut True
+Compra bilhete?.NumberOut False
+Compra de bilhetes automatizada.NumberOut
+Passageiros tem bagagem?.NumberOut False
+Reabastecimento.NumberOut
+Verifica se ja foi a casa de banho.NumberOut True
+Vai partir? 2.NumberOut True
+Verifica se ja foi ao salao de jogos.NumberOut True
+Checkout.NumberOut
+Checkout.NumberIn
+O aviao levanta voo.NumberOut
+Junta o passageiro a sua bagagem.NumberOut
+Quer fazer alguma coisa antes de ir?.NumberOut False
+Separa passageiros dos avioes.NumberOut Dup
+Tem bagagem? 2.NumberOut False
+Compra bilhete?.NumberOut True
+Separa as bagagens 2.NumberOut Orig

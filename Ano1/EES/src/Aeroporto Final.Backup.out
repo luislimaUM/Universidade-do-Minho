@@ -1,0 +1,147 @@
+SIMAN Run Controller.
+
+157.79626 Minutes>
+                                      ARENA Simulation Results
+                                  Utilizador - License:           
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 6/15/2015
+Analyst: Rockwell Automation                                         Model revision date: 6/15/2015
+
+Replication ended at time      : 157.79626 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Aviao.VATime                                3852.5     (Insuf)    2178.6     4981.8          3    
+Aviao.NVATime                               .00000     (Insuf)    .00000     .00000          3    
+Aviao.WaitTime                              6918.4     (Insuf)    6513.5     7493.1          3    
+Aviao.TranTime                              2945.2     (Insuf)    2713.6     3103.7          3    
+Aviao.OtherTime                             6.0818     (Insuf)    5.3780     6.7632          3    
+Aviao.TotalTime                             111.69     (Insuf)    76.797     134.72          3    
+Transportador vazio.VATime                      --         --         --         --          0
+Transportador vazio.NVATime                     --         --         --         --          0
+Transportador vazio.WaitTime                    --         --         --         --          0
+Transportador vazio.TranTime                    --         --         --         --          0
+Transportador vazio.OtherTime                   --         --         --         --          0
+Transportador vazio.TotalTime                   --         --         --         --          0
+Passageiros.VATime                          10.119     (Corr)     .53775     94.255        465    
+Passageiros.NVATime                         .00000     .00000     .00000     .00000        465    
+Passageiros.WaitTime                        44.010     (Corr)     .00000     80.882        465    
+Passageiros.TranTime                        15.531     (Corr)     4.8479     24.376        465    
+Passageiros.OtherTime                       .00000     .00000     .00000     .00000        465    
+Passageiros.TotalTime                       47.975     (Corr)     5.4953     146.29        465    
+Bagagem.VATime                                  --         --         --         --          0
+Bagagem.NVATime                                 --         --         --         --          0
+Bagagem.WaitTime                                --         --         --         --          0
+Bagagem.TranTime                                --         --         --         --          0
+Bagagem.OtherTime                               --         --         --         --          0
+Bagagem.TotalTime                               --         --         --         --          0
+Transportador carregado.VATime                  --         --         --         --          0
+Transportador carregado.NVATime                 --         --         --         --          0
+Transportador carregado.WaitTime                --         --         --         --          0
+Transportador carregado.TranTime                --         --         --         --          0
+Transportador carregado.OtherTime               --         --         --         --          0
+Transportador carregado.TotalTime               --         --         --         --          0
+Agrupamento de bagagens para transporte.Qu  13.855     (Corr)     .00000     33.734        625    
+Junta os passageiros.Queue.WaitingTime      15.452     (Corr)     .00000     66.242        433    
+Juntar passageiros as suas bagagens.Queue.  .00000     .00000     .00000     .00000       1000    
+Compra de bilhetes.Queue.WaitingTime        1.3249     (Insuf)    .00000     5.2897         82    
+Check in da bagagem.Queue.WaitingTime       .66847     (Corr)     .00000     3.1057        665    
+Entrada no aviao.Queue1.WaitingTime         5.1621     (Insuf)    .00000     15.486          3    
+Entrada no aviao.Queue2.WaitingTime         7.5518     (Insuf)    .00000     20.077          3    
+Sincronizacao passageiro bagagem 2.Queue1.  20.826     (Corr)     3.2665     35.683        500    
+Sincronizacao passageiro bagagem 2.Queue2.  .00000     .00000     .00000     .00000        500    
+Compra de bilhetes automatizada.Queue.Wait  .63094     (Insuf)    .00000     4.7717        228    
+Check in do passageiro.Queue.WaitingTime    .08891     .03383     .00000     .68905        763    
+Junta tudo.Queue.WaitingTime                .00000     (Insuf)    .00000     .00000          6    
+Agrupa bagagens para transporte 3.Queue.Wa  17.010     (Corr)     .00000     31.572        500    
+Checkout de bagagens.Queue.WaitingTime      8.7848     (Corr)     .00000     18.017        500    
+Checkout.Queue.WaitingTime                  1.8579     (Corr)     .00000     4.6074        566    
+Junta o passageiro a sua bagagem.Queue.Wai  .00000     .00000     .00000     .00000        916    
+Sincronizacao do passageiro com a bagagem.  4.2716     (Corr)     .00000     33.884        458    
+Sincronizacao do passageiro com a bagagem.  20.863     (Corr)     .00000     109.34        458    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Aviao.WIP                                   2.3273     (Insuf)    .00000     138.00     3.0000    
+Transportador vazio.WIP                     .00000     (Insuf)    .00000     .00000     .00000    
+Passageiros.WIP                             697.67     (Corr)     .00000     1047.0     751.00    
+Bagagem.WIP                                 318.87     (Corr)     .00000     545.00     413.00    
+Transportador carregado.WIP                 .26475     (Insuf)    .00000     2.0000     .00000    
+Assistente que faz checkout dos passageiro  2.5946     (Insuf)    .00000     4.0000     4.0000    
+Assistente que faz checkout dos passageiro  4.0000     (Insuf)    4.0000     4.0000     4.0000    
+Assistente que faz checkout dos passageiro  .64867     (Insuf)    .00000     1.0000     1.0000    
+Recepcionista.NumberBusy                    1.2378     (Insuf)    .00000     2.0000     2.0000    
+Recepcionista.NumberScheduled               2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Recepcionista.Utilization                   .61891     (Insuf)    .00000     1.0000     1.0000    
+Maquina bilheteira.NumberBusy               1.7615     (Insuf)    .00000     3.0000     3.0000    
+Maquina bilheteira.NumberScheduled          3.0000     (Insuf)    3.0000     3.0000     3.0000    
+Maquina bilheteira.Utilization              .58717     (Insuf)    .00000     1.0000     1.0000    
+Assistente que faz checkout das bagagens.N  2.3227     (Insuf)    .00000     5.0000     .00000    
+Assistente que faz checkout das bagagens.N  5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Assistente que faz checkout das bagagens.U  .46454     (Insuf)    .00000     1.0000     .00000    
+Assistente que faz check in do passageiro.  3.4684     (Corr)     .00000     5.0000     5.0000    
+Assistente que faz check in do passageiro.  5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Assistente que faz check in do passageiro.  .69368     (Corr)     .00000     1.0000     1.0000    
+Assistente que faz check in da bagagem.Num  3.0401     (Corr)     .00000     4.0000     4.0000    
+Assistente que faz check in da bagagem.Num  4.0000     (Insuf)    4.0000     4.0000     4.0000    
+Assistente que faz check in da bagagem.Uti  .76004     (Corr)     .00000     1.0000     1.0000    
+Agrupamento de bagagens para transporte.Qu  55.211     (Corr)     .00000     125.00     24.000    
+Junta os passageiros.Queue.NumberInQueue    47.962     (Corr)     .00000     149.00     110.00    
+Juntar passageiros as suas bagagens.Queue.  .00000     (Insuf)    .00000     2.0000     .00000    
+Compra de bilhetes.Queue.NumberInQueue      .68849     (Insuf)    .00000     5.0000     .00000    
+Check in da bagagem.Queue.NumberInQueue     2.8172     (Corr)     .00000     18.000     1.0000    
+Entrada no aviao.Queue1.NumberInQueue       .09814     (Insuf)    .00000     1.0000     .00000    
+Entrada no aviao.Queue2.NumberInQueue       .24469     (Insuf)    .00000     1.0000     1.0000    
+Sincronizacao passageiro bagagem 2.Queue1.  68.827     (Corr)     .00000     207.00     18.000    
+Sincronizacao passageiro bagagem 2.Queue2.  .00000     (Insuf)    .00000     1.0000     .00000    
+Compra de bilhetes automatizada.Queue.Numb  .91164     (Insuf)    .00000     12.000     .00000    
+Check in do passageiro.Queue.NumberInQueue  .42991     .16540     .00000     6.0000     .00000    
+Junta tudo.Queue.NumberInQueue              .00000     (Insuf)    .00000     2.0000     .00000    
+Agrupa bagagens para transporte 3.Queue.Nu  57.157     (Insuf)    .00000     125.00     18.000    
+Checkout de bagagens.Queue.NumberInQueue    27.835     (Corr)     .00000     120.00     .00000    
+Checkout.Queue.NumberInQueue                6.9159     (Corr)     .00000     27.000     24.000    
+Junta o passageiro a sua bagagem.Queue.Num  .00000     (Insuf)    .00000     2.0000     .00000    
+Sincronizacao do passageiro com a bagagem.  12.398     (Insuf)    .00000     40.000     .00000    
+Sincronizacao do passageiro com a bagagem.  81.596     (Insuf)    .00000     178.00     167.00    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Aviao.NumberIn                              620.00    
+Aviao.NumberOut                             617.00    
+Transportador vazio.NumberIn                .00000    
+Transportador vazio.NumberOut               .00000    
+Passageiros.NumberIn                        3561.0    
+Passageiros.NumberOut                       2810.0    
+Bagagem.NumberIn                            1161.0    
+Bagagem.NumberOut                           748.00    
+Transportador carregado.NumberIn            9.0000    
+Transportador carregado.NumberOut           9.0000    
+Assistente que faz checkout dos passageiro  566.00    
+Assistente que faz checkout dos passageiro  .64867    
+Recepcionista.NumberSeized                  82.000    
+Recepcionista.ScheduledUtilization          .61891    
+Maquina bilheteira.NumberSeized             228.00    
+Maquina bilheteira.ScheduledUtilization     .58717    
+Assistente que faz checkout das bagagens.N  500.00    
+Assistente que faz checkout das bagagens.S  .46454    
+Assistente que faz check in do passageiro.  763.00    
+Assistente que faz check in do passageiro.  .69368    
+Assistente que faz check in da bagagem.Num  665.00    
+Assistente que faz check in da bagagem.Sch  .76004    
+System.NumberOut                            468.00    
+
+
+Simulation run time: 1.03 minutes.
+Simulation run complete.
