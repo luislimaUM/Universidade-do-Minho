@@ -1,0 +1,10 @@
+F soma {
+	INT a;
+	INT b;
+	INT c;
+
+	a = -2;
+	IF (TRUE){}
+	ELSE{}
+	write a;
+}

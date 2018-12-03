@@ -1,0 +1,16 @@
+start
+pushi 0
+pushi 0
+pushi 0
+pushi -2
+storel 0
+pushi 1
+lblif1: nop
+jz lblelse1
+jump lblelseend1
+lblifend1: nop
+lblelse1: nop
+lblelseend1: nop
+pushl 0
+writei
+stop

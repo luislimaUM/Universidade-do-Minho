@@ -1,0 +1,48 @@
+start
+pushi 0
+pushn 5
+pushi 0
+pushi 5
+storel 0
+pushi 0
+storel 6
+lblwhile1: nop
+pushl 6
+pushl 0
+inf
+jz lblfimwhile1
+pushfp
+pushi 1
+padd
+pushl 6
+read
+atoi
+storen
+pushl 6
+pushi 1
+add
+storel 6
+jump lblwhile1
+lblfimwhile1: nop
+pushl 0
+pushi 1
+sub
+storel 6
+lblwhile2: nop
+pushl 6
+pushi 0
+supeq
+jz lblfimwhile2
+pushfp
+pushi 1
+padd
+pushl 6
+loadn
+writei
+pushl 6
+pushi 1
+sub
+storel 6
+jump lblwhile2
+lblfimwhile2: nop
+stop

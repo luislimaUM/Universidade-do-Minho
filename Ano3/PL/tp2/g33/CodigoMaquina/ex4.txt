@@ -1,0 +1,74 @@
+start
+pushi 0
+pushn 5
+pushi 0
+pushi 0
+pushi 0
+pushi 0
+pushi 5
+storel 0
+pushi 0
+storel 9
+pushi 0
+storel 7
+lblwhile1: nop
+pushl 7
+pushl 0
+inf
+jz lblfimwhile1
+pushfp
+pushi 1
+padd
+pushl 7
+read
+atoi
+storen
+pushl 7
+pushi 1
+add
+storel 7
+jump lblwhile1
+lblfimwhile1: nop
+pushi 0
+storel 7
+lblwhile2: nop
+pushl 7
+pushl 0
+inf
+jz lblfimwhile2
+pushfp
+pushi 1
+padd
+pushl 7
+loadn
+pushi 2
+mod
+storel 8
+pushl 8
+pushi 1
+equal
+lblif1: nop
+jz lblelse1
+pushfp
+pushi 1
+padd
+pushl 7
+loadn
+writei
+pushl 9
+pushi 1
+add
+storel 9
+jump lblelseend1
+lblifend1: nop
+lblelse1: nop
+lblelseend1: nop
+pushl 7
+pushi 1
+add
+storel 7
+jump lblwhile2
+lblfimwhile2: nop
+pushl 9
+writei
+stop

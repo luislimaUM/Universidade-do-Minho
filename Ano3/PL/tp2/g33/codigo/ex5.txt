@@ -1,0 +1,44 @@
+F Ordenacao {
+	INT n;
+	INT [5] vetor;
+	INT i;
+	INT j;
+	INT min;
+	INT aux;
+	INT ca;
+
+	n = 5;
+
+	i = 0;
+	WHILE( i INF n){
+		[ i ] vetor = read;
+		i = i + 1;
+	}
+
+	i = 0;
+	ca = n - 1;
+	WHILE( ca SUP i){
+		min = i;
+		j = i + 1;
+		WHILE( n SUP j ){
+			IF([ j ] vetor INF [ min ] vetor){
+				min = j;
+			}
+			ELSE{}
+			j = j + 1;
+		}
+		IF(i DIFFERENT min){
+			aux = [ i ] vetor;
+			[ i ] vetor = [ min ] vetor;
+			[ min ] vetor = aux;
+		}
+		ELSE{}
+		i = i + 1;
+	}
+
+	i = n - 1;
+	WHILE(i SUPEQUAL 0){
+		write [ i ] vetor;
+		i = i - 1;
+	}
+}	

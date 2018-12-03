@@ -1,0 +1,32 @@
+start
+pushi 0
+pushi 0
+pushi 0
+pushi 0
+pushi 0
+storel 3
+pushi 3
+storel 0
+pushi 1
+storel 1
+lblwhile1: nop
+pushl 3
+pushl 0
+inf
+jz lblfimwhile1
+read
+atoi
+storel 2
+pushl 1
+pushl 2
+mul
+storel 1
+pushl 3
+pushi 1
+add
+storel 3
+jump lblwhile1
+lblfimwhile1: nop
+pushl 1
+writei
+stop

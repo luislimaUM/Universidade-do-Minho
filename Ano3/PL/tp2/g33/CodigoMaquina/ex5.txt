@@ -1,0 +1,139 @@
+start
+pushi 0
+pushn 5
+pushi 0
+pushi 0
+pushi 0
+pushi 0
+pushi 0
+pushi 5
+storel 0
+pushi 0
+storel 6
+lblwhile1: nop
+pushl 6
+pushl 0
+inf
+jz lblfimwhile1
+pushfp
+pushi 1
+padd
+pushl 6
+read
+atoi
+storen
+pushl 6
+pushi 1
+add
+storel 6
+jump lblwhile1
+lblfimwhile1: nop
+pushi 0
+storel 6
+pushl 0
+pushi 1
+sub
+storel 10
+lblwhile2: nop
+pushl 10
+pushl 6
+sup
+jz lblfimwhile2
+pushl 6
+storel 8
+pushl 6
+pushi 1
+add
+storel 7
+lblwhile3: nop
+pushl 0
+pushl 7
+sup
+jz lblfimwhile3
+pushfp
+pushi 1
+padd
+pushl 7
+loadn
+pushfp
+pushi 1
+padd
+pushl 8
+loadn
+inf
+lblif1: nop
+jz lblelse1
+pushl 7
+storel 8
+jump lblelseend1
+lblifend1: nop
+lblelse1: nop
+lblelseend1: nop
+pushl 7
+pushi 1
+add
+storel 7
+jump lblwhile3
+lblfimwhile3: nop
+pushl 6
+pushl 8
+equal
+pushi 1
+swap
+sub
+lblif2: nop
+jz lblelse2
+pushfp
+pushi 1
+padd
+pushl 6
+loadn
+storel 9
+pushfp
+pushi 1
+padd
+pushl 6
+pushfp
+pushi 1
+padd
+pushl 8
+loadn
+storen
+pushfp
+pushi 1
+padd
+pushl 8
+pushl 9
+storen
+jump lblelseend2
+lblifend2: nop
+lblelse2: nop
+lblelseend2: nop
+pushl 6
+pushi 1
+add
+storel 6
+jump lblwhile2
+lblfimwhile2: nop
+pushl 0
+pushi 1
+sub
+storel 6
+lblwhile4: nop
+pushl 6
+pushi 0
+supeq
+jz lblfimwhile4
+pushfp
+pushi 1
+padd
+pushl 6
+loadn
+writei
+pushl 6
+pushi 1
+sub
+storel 6
+jump lblwhile4
+lblfimwhile4: nop
+stop

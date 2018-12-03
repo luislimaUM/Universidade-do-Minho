@@ -1,0 +1,4 @@
+start
+pushi 20
+writei
+Erro: syntax error

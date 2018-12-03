@@ -1,0 +1,4 @@
+start
+pushi 0
+Erro: Variável já definida
+

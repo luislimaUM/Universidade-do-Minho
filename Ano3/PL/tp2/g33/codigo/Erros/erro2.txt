@@ -1,0 +1,6 @@
+F Erro {
+	INT a;
+	INT [2] b;
+
+	[0] a = 5;
+}

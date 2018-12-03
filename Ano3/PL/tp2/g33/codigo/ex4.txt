@@ -1,0 +1,29 @@
+F Impares {
+	INT n;
+	INT [5] vetor;
+	INT ler;
+	INT aux;
+	INT mod;
+	INT contar;
+
+	n = 5;
+	contar = 0;
+
+	aux = 0;
+	while( aux inf n){
+		[ aux ] vetor = read;
+		aux = aux + 1;
+	}
+
+	aux = 0;
+	while( aux inf n){
+		mod = [ aux ] vetor % 2;
+		if(mod EQUAL 1){
+			write [ aux ] vetor ;
+			contar = contar + 1 ;
+		}
+		else{} 
+		aux = aux + 1;
+	}
+	write contar;
+}

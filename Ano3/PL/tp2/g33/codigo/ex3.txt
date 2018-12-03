@@ -1,0 +1,18 @@
+F Produtorio {
+	INT constante;
+	INT produtorio;
+	INT ler;
+	INT aux;
+
+	aux = 0;
+	constante = 3;
+	produtorio = 1;
+
+	while(aux INF constante){
+		ler = read;
+		produtorio = produtorio * ler;
+		aux = aux + 1;
+	}
+
+	write produtorio;
+}

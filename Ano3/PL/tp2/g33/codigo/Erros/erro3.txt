@@ -1,0 +1,6 @@
+F Erro {
+	INT a;
+	BOOL x;
+	
+	a = FALSE AND TRUE;
+}

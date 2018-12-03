@@ -1,0 +1,8 @@
+start
+pushi 0
+pushi 0
+pushi 0
+pushi 1
+mul
+Erro: Tipo incompatível
+

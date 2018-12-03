@@ -1,0 +1,19 @@
+F Ordenacao {
+	INT n;
+	INT [5] vetor;
+	INT i;
+
+	n = 5;
+
+	i = 0;
+	WHILE( i INF n){
+		[ i ] vetor = read;
+		i = i + 1;
+	}
+
+	i = n - 1;
+	WHILE(i SUPEQUAL 0){
+		write [ i ] vetor;
+		i = i - 1;
+	}
+}	

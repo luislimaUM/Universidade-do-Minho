@@ -1,0 +1,25 @@
+F Quadrado {
+	INT [4] nrs;
+	INT aux;
+	INT prox;
+	BOOL r;
+
+	aux = 0;
+	prox = aux + 1;
+	
+	WHILE (aux INF 4){
+		[ aux ] nrs = read;
+		aux = aux + 1;
+	}
+	IF([0] nrs SUP 0 AND [1] nrs SUP 0 AND [2] nrs SUP 0 AND [3] nrs SUP 0){
+		IF ([0] nrs EQUAL [1] nrs AND [1] nrs EQUAL [2] nrs AND [2] nrs EQUAL [3] nrs){ 
+			WRITE TRUE ;
+		}
+		ELSE{
+			WRITE FALSE ;
+		}
+	}
+	ELSE{
+		WRITE FALSE;
+	}
+}

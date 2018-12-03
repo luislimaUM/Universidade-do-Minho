@@ -1,0 +1,1 @@
+F Quadrado {INT a;a = 20/5/2;write a;}

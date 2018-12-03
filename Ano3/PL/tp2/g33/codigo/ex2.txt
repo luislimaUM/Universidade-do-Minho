@@ -1,0 +1,22 @@
+F Menor {
+	INT n;
+	INT aux;
+	INT menor;
+	INT ler;
+
+	n = read;
+	aux = 0;
+	menor = 0;
+
+	while(aux INF n){
+		ler = read;
+
+		if(menor SUP ler OR aux EQUAL 0){
+			menor = ler;
+		}
+		else{}
+		aux = aux + 1;
+	}
+
+	write menor;
+}
