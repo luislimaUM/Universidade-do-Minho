@@ -1,0 +1,46 @@
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\bin\Debug\SistemaDeSensorizaçao.exe.config
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\bin\Debug\SistemaDeSensorizaçao.exe
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\bin\Debug\SistemaDeSensorizaçao.pdb
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.csprojResolveAssemblyReference.cache
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form1.resources
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form2.resources
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Properties.Resources.resources
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.csproj.GenerateResource.Cache
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.exe
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.pdb
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form3.resources
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form21.resources
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form4.resources
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form5.resources
+C:\Users\Luis Lima\Documents\Visual Studio 2017\Projects\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form6.resources
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\bin\Debug\SistemaDeSensorizaçao.exe.config
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\bin\Debug\SistemaDeSensorizaçao.exe
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\bin\Debug\SistemaDeSensorizaçao.pdb
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.csprojResolveAssemblyReference.cache
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form1.resources
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form2.resources
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form21.resources
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form3.resources
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form4.resources
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form5.resources
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form6.resources
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Properties.Resources.resources
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.csproj.GenerateResource.Cache
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.csproj.CoreCompileInputs.cache
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.exe
+C:\Users\hugoc\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.pdb
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\bin\Debug\SistemaDeSensorizaçao.exe.config
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\bin\Debug\SistemaDeSensorizaçao.exe
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\bin\Debug\SistemaDeSensorizaçao.pdb
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.csprojResolveAssemblyReference.cache
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form1.resources
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form2.resources
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form21.resources
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form3.resources
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form4.resources
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form5.resources
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Form6.resources
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.Properties.Resources.resources
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.csproj.GenerateResource.Cache
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.exe
+C:\Users\Luis Lima\Desktop\SistemaDeSensorizaçao\SistemaDeSensorizaçao\obj\Debug\SistemaDeSensorizaçao.pdb

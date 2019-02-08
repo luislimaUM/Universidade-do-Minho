@@ -1,0 +1,107 @@
+{
+	"professor": {
+		"nome": "prof555",
+		"id": 555
+	},
+
+	"laptop": {
+		"nome": "profPC"
+	},
+
+	"apresentacao": {
+		"tema": "context-awareness",
+		"numeroSlides": 25
+	},
+
+	"aula": {
+		"UC": "IATA",
+		"horaInicial": "9:00",
+		"horaFinal": "12:00"
+	},
+
+	"alunos": [{
+			"nome": "Aluno1",
+			"numero": 1
+		},
+		{
+			"nome": "Aluno2",
+			"numero": 2
+		},
+		{
+			"nome": "Aluno3",
+			"numero": 3
+		},
+		{
+			"nome": "Aluno4",
+			"numero": 4
+		},
+		{
+			"nome": "Aluno5",
+			"numero": 5
+		},
+		{
+			"nome": "Aluno6",
+			"numero": 6
+		},
+		{
+			"nome": "Aluno7",
+			"numero": 7
+		},
+		{
+			"nome": "Aluno8",
+			"numero": 8
+		},
+		{
+			"nome": "Aluno9",
+			"numero": 9
+		},
+		{
+			"nome": "Aluno10",
+			"numero": 10
+		},
+		{
+			"nome": "Aluno11",
+			"numero": 11
+		},
+		{
+			"nome": "Aluno12",
+			"numero": 12
+		}
+	],
+
+	"sensores": [{
+			"id": "S1LS",
+			"desc": "localizaSala",
+			"estado": true
+		},
+		{
+			"id": "S2VT",
+			"desc": "verificaTemperaturas",
+			"estado": true
+		},
+		{
+			"id": "S3RL",
+			"desc": "reconheceLaptop",
+			"status": true
+		},
+		{
+			"id": "S4LP",
+			"desc": "localizaProfessor",
+			"status": true
+		},
+		{
+			"id": "S5RS",
+			"desc": "reconheceSlides",
+			"status": true
+		},
+		{
+			"id": "S6ST",
+			"desc": "dataHora",
+			"status": true
+		}
+	]
+}
+
+
+
+
